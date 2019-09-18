@@ -1,3 +1,5 @@
+#ARM AND TAKEOFF
+
 from dronekit import connect, LocationGlobalRelative,APIException ,VehicleMode
 import exceptions
 import math
